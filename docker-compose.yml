@@ -11,9 +11,4 @@ services:
       - "3002:3000"
     environment:
       - NODE_ENV=production
-    networks:
-      - web_proxy
 
-networks:
-  web_proxy:
-    external: true
