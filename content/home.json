@@ -1,7 +1,7 @@
 {
   "hero": {
-    "title": "Construa sites modernos em minutos",
-    "description": "Uma 'fábrica de sites' pronta para produção. Baseada em Next.js, Tailwind e Docker. Foco em performance e escalabilidade.",
+    "title": "Luvet",
+    "description": "Luvet - Site Minimalista",
     "cta": "Começar Agora",
     "image": "/hero-placeholder.jpg"
   },
