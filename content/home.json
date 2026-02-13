@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "title": "Construa sites modernos em minutos",
+    "description": "Uma 'fábrica de sites' pronta para produção. Baseada em Next.js, Tailwind e Docker. Foco em performance e escalabilidade.",
+    "cta": "Começar Agora",
+    "image": "/hero-placeholder.jpg"
+  },
+  "features": {
+    "title": "Tudo que você precisa",
+    "subtitle": "Funcionalidades essenciais já integradas",
+    "items": [
+      {
+        "title": "Next.js 14",
+        "description": "Aproveite o poder do App Router e Server Components."
+      },
+      {
+        "title": "Tailwind CSS",
+        "description": "Estilização rápida e consistente com design system configurado."
+      },
+      {
+        "title": "Docker Ready",
+        "description": "Deploy simplificado com containers otimizados para produção."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Pronto para lançar seu projeto?",
+    "description": "Clone este template e comece a desenvolver sem perder tempo com configurações.",
+    "button_text": "Ver Documentação"
+  }
+}

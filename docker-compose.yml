@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: site-luvet-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3002:3000"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - web_proxy
+
+networks:
+  web_proxy:
+    external: true
